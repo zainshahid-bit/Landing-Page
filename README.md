@@ -1,2 +1,16 @@
-# Landing-Page
-Created a responsive landing page using HTML and CSS, including Header &amp; Navigation, Hero Section, About Section, Services, Call-to-Action, and Footer.
+# TechNova Landing Page
+
+A modern and responsive landing page built using HTML and CSS.
+
+## Features
+- Header & Navigation
+- Hero Section
+- About Section
+- Services / Features
+- Call-to-Action
+- Footer
+- Responsive Design
+
+## Technologies Used
+- HTML5
+- CSS3
